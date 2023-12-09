@@ -1,0 +1,37 @@
+shop: Мегафон
+categories:
+  - id: 225
+    name: Смартфоны
+  - id: 16
+    name: Аксессуары
+  - id: 2
+    name: Flash-накопители
+
+goods:
+  - id: 4216293
+    category: 225
+    model: realme/10
+    name: Смартфон Realme 10 4/128GB (белый)
+    price: 15290
+    price_rrc: 15990
+    quantity: 4
+    parameters:
+      "Цвет": белый
+  - id: 4216314
+    category: 225
+    model: Samsung Galaxy/A53
+    name: Смартфон Samsung Galaxy A53 5G 128 GB (персиковый)
+    price: 27990
+    price_rrc: 29900
+    quantity: 10
+    parameters:
+      "Цвет": персиковый
+  - id: 4216227
+    category: 225
+    model: realme/C33
+    name: Смартфон Realme C33 128GB (синий)
+    price: 10290
+    price_rrc: 10990
+    quantity: 5
+    parameters:
+      "Цвет": синий
